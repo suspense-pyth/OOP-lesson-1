@@ -26,3 +26,5 @@ master_and_margaritte = Book("Мастер и маргарита", "Булгак
 
 print(voina_and_mir.title, voina_and_mir.author, voina_and_mir.pages)
 print(master_and_margaritte.title, master_and_margaritte.author, master_and_margaritte.pages)
+
+
